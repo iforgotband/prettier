@@ -33,7 +33,7 @@
     "jest-docblock": "21.3.0-beta.7",
     "jest-validate": "21.1.0",
     "leven": "2.1.0",
-    "mem": "1.1.0",
+    "mem": "4.0.0",
     "minimatch": "3.0.4",
     "minimist": "1.2.0",
     "parse5": "3.0.3",
